@@ -53,7 +53,7 @@ public class GalaxyShopTest {
 	public void testSalesRequestWrongQuestion() {
 
 		expException.expect(GalaxyShopException.class);
-		expException.expectMessage("I have no idea what you are talking about.");
+		expException.expectMessage("I have no idea what you are talking about");
 
 		GalaxyMetalShop galaxyMetal = new GalaxyMetalShop();
 		galaxyMetal
