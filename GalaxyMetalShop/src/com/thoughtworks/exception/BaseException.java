@@ -9,7 +9,7 @@ public class BaseException extends RuntimeException {
     /**
      * serialVersionUID
      */
-    private static final long serialVersionUID = -8290540910743463822L;
+    private static final long serialVersionUID = -666666666L;
 
     /** Error code. */
     protected String errorCode;
