@@ -1,0 +1,12 @@
+############################################
+Problem One: Merchant's Guide To The Galaxy
+Kartik bhatnagars has completed this Galaxy Metal shop Problem on 10-04-2014.
+Email bhatnagars.kartik@gmail.com
+Mob : 9922609509.
+
+############################################
+
+1.	Configuration File - RateCalculationMatrix.java can be use to maintain Roman Number, Metals and other information.
+
+2.	package com.thoughtworks.testcases  - this is location of all test cases.
+-	GalaxyShopTest – this test case can be use to invoke class GalaxyMetalShop.
