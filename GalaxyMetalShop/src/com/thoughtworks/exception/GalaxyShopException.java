@@ -6,7 +6,7 @@ public class GalaxyShopException extends BaseException {
 	 * serialVersionUID
 	 */
 
-	private static final long serialVersionUID = -6812240116282804493L;
+	private static final long serialVersionUID = -44444444493L;
 
 	/**
 	 * Creates a new GalaxyShopException object.
